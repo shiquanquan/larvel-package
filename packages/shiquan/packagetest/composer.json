@@ -1,0 +1,15 @@
+{
+    "name": "shiquan/packagetest",
+    "authors": [
+        {
+            "name": "shiquan",
+            "email": "18329107572@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Shiquan\\Packagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
