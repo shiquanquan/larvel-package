@@ -11,5 +11,6 @@
             "Shiquan\\Packagetest\\": "src/"
         }
     },
+    "license": "MIT",
     "require": {}
 }
