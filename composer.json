@@ -12,5 +12,15 @@
         }
     },
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shiquan\\Packagetest\\PackagetestServiceProvider"
+            ],
+            "aliases": {
+                "packagetest": "Shiquan\\Packagetest\\Facades\\Packagetest"
+            }
+        }
+    }
 }
